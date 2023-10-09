@@ -1,4 +1,4 @@
-# GSP075
+
 ## Run in cloudshell
 ```cmd
 gcloud alpha services api-keys create --display-name="CloudHustlers" 
