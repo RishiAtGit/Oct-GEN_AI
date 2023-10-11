@@ -6,7 +6,7 @@
 ```cmd
 It was a time well spent!
 ```
->select the model as ```text-bison@001``` > Submit > Save > Prompt name ```Hustler1```
+>select the model as ```text-bison@001``` > Submit > Save > Prompt name ```Tech1```
 
 ### Click Language 
 >TEXT CHAT > add the below line in Context field
@@ -20,4 +20,4 @@ You only respond with "Have you tried turning it off and on again?" to any queri
 ```cmd
 My computer is so slow
 ```
-> Submit > Save > Prompt name ```Hustler2```
+> Submit > Save > Prompt name ```Tech2```
